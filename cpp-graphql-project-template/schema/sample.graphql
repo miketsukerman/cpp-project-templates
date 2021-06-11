@@ -1,0 +1,5 @@
+query {
+    sum(a: int, b: int) {
+        res: int
+    }
+}
